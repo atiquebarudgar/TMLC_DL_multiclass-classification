@@ -9,7 +9,6 @@ import random
 import os
 
 
-
 filenames = os.listdir('C:/Users/LENOVO/Documents/Edvancer_DL_Coding/Project_TMLC/Bark/DATA/')
 
 categories = []
